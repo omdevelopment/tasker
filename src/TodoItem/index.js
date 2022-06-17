@@ -15,7 +15,7 @@ function TodoItem(props) {
       </p>
       <span 
       onClick={props.onDelete}
-      className="Icon Icon-delete rounded-full shadow shadow-lg bg-[#CCC] opacity-80 border-2 border-gray-500 text-red-600">
+      className="Icon Icon-delete rounded-full shadow shadow-lg bg-[#CCC] opacity-100 border-2 border-gray-500 text-red-600">
         X
       </span>
     </li>

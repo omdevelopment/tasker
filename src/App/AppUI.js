@@ -14,6 +14,9 @@ function AppUI() {
 
     return(
         <div className="grid md:grid-cols-2 grid-cols-1 min-w-full min-h-screen bg-general">
+             <CreateTodoButton 
+                setOpenModal={setOpenModal}
+               />
             <NewTodoCard />
             <div className="mx-auto w-full md:w-3/4 bg-none md:bg-gray-300 backdrop-blur-xl opacity-70">
                 <TodoCounter />
@@ -41,9 +44,7 @@ function AppUI() {
                 </Modal>
                )}
 
-               <CreateTodoButton 
-                setOpenModal={setOpenModal}
-               />
+              
                    
                 
             </div>

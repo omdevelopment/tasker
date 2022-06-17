@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tasker/static/css/main.5dae6712.css",
+    "main.js": "/tasker/static/js/main.cd0ca5d0.js",
+    "index.html": "/tasker/index.html",
+    "static/media/delete.svg": "/tasker/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/check.svg": "/tasker/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.5dae6712.css.map": "/tasker/static/css/main.5dae6712.css.map",
+    "main.cd0ca5d0.js.map": "/tasker/static/js/main.cd0ca5d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dae6712.css",
+    "static/js/main.cd0ca5d0.js"
+  ]
+}
